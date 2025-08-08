@@ -7,7 +7,7 @@ The dashboard analyzes **4 years of global superstore sales data**, offering ins
 
 ## Dashboard Preview
 
-*(Insert dashboard image here)*
+[https://github.com/Maira-Nawaz/Superstore-Sales-Analysis-in-Power-BI/blob/main/Sales%20Dashboard_page-0001.jpg]
 
 ## Dataset Description
 
