@@ -5,9 +5,12 @@
 This project presents an **interactive sales analysis dashboard** built using **Microsoft Power BI**.
 The dashboard analyzes **4 years of global superstore sales data**, offering insights into **sales trends, product performance, and regional growth**.
 
+Dataset Source Link : https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting?resource=download
+
 ## Dashboard Preview
 
-[https://github.com/Maira-Nawaz/Superstore-Sales-Analysis-in-Power-BI/blob/main/Sales%20Dashboard_page-0001.jpg]
+![Dashboard Preview](https://github.com/Maira-Nawaz/Superstore-Sales-Analysis-in-Power-BI/blob/main/Sales%20Dashboard_page-0001.jpg)
+
 
 ## Dataset Description
 
